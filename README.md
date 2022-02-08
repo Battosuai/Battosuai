@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Battosuai
+- 👋 Hi, I’m Asif
 - 👀 I’m interested in lot of stuff.
 - 🌱 I’m currently learning and working as a javascript developer
 - 💞️ I’m looking to collaborate on js stuff
